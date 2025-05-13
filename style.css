@@ -158,3 +158,18 @@ footer {
   color: #A4C639;
   font-size: 1rem;
 }
+.featured-review {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 1.5rem;
+  background-color: #1a1a1a;
+  border-radius: 12px;
+  text-align: center;
+  color: #A4C639;
+}
+
+.featured-review h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #A4C639;
+}
