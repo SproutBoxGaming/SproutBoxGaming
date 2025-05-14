@@ -158,6 +158,7 @@ footer {
   color: #A4C639;
   font-size: 1rem;
 }
+/* === Featured Review Section === */
 .featured-review {
   max-width: 800px;
   margin: 3rem auto;
@@ -166,6 +167,7 @@ footer {
   border-radius: 12px;
   text-align: center;
   color: #A4C639;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.1);
 }
 
 .featured-review h2 {
@@ -173,3 +175,16 @@ footer {
   margin-bottom: 1rem;
   color: #A4C639;
 }
+
+.featured-review img {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.featured-review h3 {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
