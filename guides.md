@@ -8,4 +8,4 @@ permalink: /guides/
 
 Welcome to the Guides section
 
-- [Enlisted Guide](/_posts/Enlisted guide testing.md/)
+- [Enlisted Guide](/nextjs-blog/_posts/Enlisted guide testing.md/)
